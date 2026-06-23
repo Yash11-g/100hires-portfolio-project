@@ -88,3 +88,14 @@ This demonstrated the importance of validating software requirements during setu
 All requested setup tasks were completed successfully.
 
 The required tools were installed, the repository was created, and the workflow was documented for future reference.
+
+## Screenshots
+
+### Codex Installed
+![Codex](screenshots/codex.png)
+
+### Claude Code Installed
+![Claude Code](screenshots/claude-code.png)
+
+### Claude Subscription Requirement
+![Claude Requirement](screenshots/claude-subscription.png)
