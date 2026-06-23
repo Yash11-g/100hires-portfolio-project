@@ -91,11 +91,11 @@ The required tools were installed, the repository was created, and the workflow 
 
 ## Screenshots
 
-### Codex Installed
-![Codex](screenshots/codex.png)
+### Cursor Installed
+![Cursor Installed](Cursor%20installed.png)
 
-### Claude Code Installed
-![Claude Code](screenshots/claude-code.png)
+### Claude Code and Codex Installed
+![Claude Code and Codex Installed](Claude%20code,%20codex%20installed.png)
 
-### Claude Subscription Requirement
-![Claude Requirement](screenshots/claude-subscription.png)
+### Claude Code Subscription Requirement
+![Claude Subscription Requirement](Claude%20code%20need%20max%20subscription%20to%20work.png)
