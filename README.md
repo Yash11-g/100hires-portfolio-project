@@ -99,3 +99,9 @@ The required tools were installed, the repository was created, and the workflow 
 
 ### Claude Code Subscription Requirement
 ![Claude Subscription Requirement](Claude%20code%20need%20max%20subscription%20to%20work.png)
+research/
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+├── other/
+└── insights/
