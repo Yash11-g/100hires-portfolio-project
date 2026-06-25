@@ -56,3 +56,15 @@ Reason: Sales process and prospecting education.
 10. Will Allred
 
 Reason: Cold email and outbound communication specialist.
+
+### Josh Braun
+
+Status: Research in progress
+
+Reason Selected:
+Josh Braun is widely recognized for his work on buyer psychology, objection handling, and human-centered outreach.
+
+Research Focus:
+- Sales psychology
+- Prospecting mindset
+- Buyer-centric messaging
