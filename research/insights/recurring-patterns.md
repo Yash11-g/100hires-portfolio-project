@@ -53,3 +53,23 @@ Observed In:
 Summary:
 
 Messaging should focus on the prospect’s challenges and objectives instead of product features.
+## Pattern 5: Curiosity Beats Persuasion
+
+Observed In:
+- Josh Braun
+
+Summary:
+
+Successful outreach often creates curiosity and dialogue instead of attempting to immediately persuade the prospect.
+
+---
+
+## Pattern 6: Human-Centered Outreach
+
+Observed In:
+- Josh Braun
+- Jason Bay
+
+Summary:
+
+The strongest outreach messages feel conversational and relevant rather than scripted and promotional.
