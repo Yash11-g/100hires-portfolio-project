@@ -139,3 +139,10 @@ Disclaimer
 This repository is intended for educational and research purposes.
 
 The documents summarize recurring concepts from publicly available educational resources. They do not reproduce copyrighted transcripts, proprietary material, or direct quotations beyond fair use.
+
+## Quick Navigation
+
+- research/sources.md
+- research/insights/recurring-patterns.md
+- research/linkedin-posts/
+- research/youtube-transcripts/
