@@ -1,107 +1,141 @@
-# 100Hires Portfolio Project
+100Hires Portfolio Project
 
-## Candidate Information
+Candidate Information
 
-**Name:** Yash Gupta
+Name: Yash Gupta
 
-## Objective
+Program: MBA (Marketing)
 
-This repository documents the setup and configuration process for AI-assisted development tools as part of the 100Hires application process.
+University: O.P. Jindal Global University
 
-The goal was to install the required tools, configure the environment, document the workflow, and report any issues encountered during setup.
+Project: Cold Outreach Pipeline for B2B SaaS
 
----
+⸻
 
-## Tools Installed
+Project Overview
 
-### 1. Cursor IDE
-- Installed and launched successfully.
-- Used as the primary development environment.
+This repository contains a structured research project focused on Cold Outreach Pipeline for B2B SaaS.
 
-### 2. OpenAI Codex Extension
-- Verified installation in Cursor.
-- Extension was already installed and available for use.
+The objective was to identify leading practitioners in outbound sales, analyze their publicly available educational content, and synthesize recurring principles that contribute to successful prospecting, pipeline generation, and sales execution.
 
-### 3. Claude Code Extension
-- Installed successfully through the Cursor Extensions Marketplace.
-- Extension loaded correctly within Cursor.
+Rather than collecting isolated tips, this project focuses on identifying repeatable frameworks shared across experienced B2B SaaS sales leaders.
 
-### 4. GitHub
-- Created a public repository.
-- Configured repository for project documentation and version control.
+⸻
 
----
+Tools Installed
 
-## Steps Completed
+The following tools were installed and configured during the setup process:
 
-### Step 1: Opened Cursor IDE
-Verified that Cursor was installed and functioning correctly.
+* Cursor IDE
+* Claude Code Extension
+* OpenAI Codex Extension
+* Git
+* GitHub
 
-### Step 2: Verified Codex Extension
-Confirmed that the OpenAI Codex extension was already installed and active.
+Notes
 
-### Step 3: Installed Claude Code
-Searched for the official Claude Code extension by Anthropic and installed it successfully.
+* Cursor IDE was installed and configured successfully.
+* The Codex extension was installed successfully.
+* Claude Code was installed; however, full integration requires a Claude Max or Pro subscription, which was unavailable during the project.
+* GitHub was used for version control with regular commits throughout the research process.
 
-### Step 4: Attempted Authentication
-Opened Claude Code and attempted to connect using a Claude account.
+⸻
 
-### Step 5: Created GitHub Repository
-Created a public repository named:
+Repository Structure
 
-`100hires-portfolio-project`
-
-### Step 6: Created Documentation
-Prepared this README file documenting the setup process, findings, and observations.
-
-### Step 7: Commit and Push
-Committed all changes and pushed them to GitHub.
-
----
-
-## Challenges Encountered
-
-### Claude Code Subscription Requirement
-
-While attempting to authenticate Claude Code, I discovered that access requires a Claude Pro or Claude Max subscription.
-
-#### Resolution
-
-The extension installation was completed successfully and the requirement was documented. The issue was investigated and recorded rather than ignored.
-
-This demonstrated the importance of validating software requirements during setup.
-
-## Skills Demonstrated
-
-- Independent research
-- Documentation
-- Software installation
-- AI tooling familiarity
-- GitHub workflow management
-- Problem solving
-- Attention to detail
-
----
-
-## Outcome
-
-All requested setup tasks were completed successfully.
-
-The required tools were installed, the repository was created, and the workflow was documented for future reference.
-
-## Screenshots
-
-### Cursor Installed
-![Cursor Installed](Cursor%20installed.png)
-
-### Claude Code and Codex Installed
-![Claude Code and Codex Installed](Claude%20code,%20codex%20installed.png)
-
-### Claude Code Subscription Requirement
-![Claude Subscription Requirement](Claude%20code%20need%20max%20subscription%20to%20work.png)
 research/
+│
 ├── sources.md
 ├── linkedin-posts/
 ├── youtube-transcripts/
-├── other/
-└── insights/
+├── insights/
+└── other/
+
+Folder Description
+
+Folder	Description
+sources.md	Index of selected experts and research sources
+linkedin-posts/	Research synthesized from LinkedIn content
+youtube-transcripts/	Research synthesized from YouTube videos and educational content
+insights/	Cross-expert analysis and recurring patterns
+other/	Supporting resources including podcasts and newsletters
+
+⸻
+
+Experts Researched
+
+* Jason Bay
+* Josh Braun
+* Morgan Ingram
+* Armand Farrokh
+* Chris Orlob
+* Kevin Dorsey
+* Becc Holland
+* Kyle Coleman
+* Donald Kelly
+* Will Allred
+
+⸻
+
+Research Methodology
+
+The project followed the process below:
+
+1. Selected ten experienced B2B SaaS outbound practitioners.
+2. Reviewed publicly available educational content from LinkedIn, YouTube, podcasts, newsletters, and interviews.
+3. Organized findings into a structured GitHub repository.
+4. Synthesized recurring themes instead of reproducing original content.
+5. Compared insights across experts to identify common outbound sales frameworks and best practices.
+
+⸻
+
+AI-Assisted Workflow
+
+AI tools were used to assist with:
+
+* Repository organization
+* Markdown formatting
+* Research synthesis
+* Documentation
+* Content refinement
+
+All generated content was reviewed, organized, and edited before being committed to the repository.
+
+⸻
+
+Key Insights
+
+The research identified several recurring principles across the selected experts:
+
+* Personalization is more effective than mass outreach.
+* Buyer-centric communication creates stronger engagement.
+* Discovery should focus on business impact rather than product features.
+* Multi-channel prospecting outperforms single-channel outreach.
+* Continuous coaching improves sales performance.
+* Repeatable systems create scalable pipeline generation.
+
+A detailed synthesis of these findings is available in:
+
+research/insights/recurring-patterns.md
+
+⸻
+
+Learning Outcomes
+
+This project improved my understanding of:
+
+* Modern B2B SaaS outbound sales
+* Cold email strategy
+* Social selling and LinkedIn outreach
+* Discovery and qualification frameworks
+* Sales leadership and revenue operations
+* AI-assisted research workflows
+* Technical documentation using GitHub
+
+⸻
+
+Disclaimer
+
+This repository is intended for educational and research purposes.
+
+The documents summarize recurring concepts from publicly available educational resources. They do not reproduce copyrighted transcripts, proprietary material, or direct quotations beyond fair use.
