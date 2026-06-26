@@ -60,15 +60,13 @@ Setup Notes
 
 Repository Structure
 
-'''research/
-├── sources.md
-├── linkedin-posts/
-├── youtube-transcripts/
-├── insights/
-│   └── recurring-patterns.md
-└── other/
-    ├── podcasts.md
-    └── newsletters.md'''
+Repository Structure
+
+* research/sources.md
+* research/linkedin-posts/
+* research/youtube-transcripts/
+* research/insights/recurring-patterns.md
+* research/other/podcasts.md
 
 Folder Description
 
