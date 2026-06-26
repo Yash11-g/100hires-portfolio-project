@@ -60,7 +60,7 @@ Setup Notes
 
 Repository Structure
 
-research/
+'''research/
 ├── sources.md
 ├── linkedin-posts/
 ├── youtube-transcripts/
@@ -68,7 +68,7 @@ research/
 │   └── recurring-patterns.md
 └── other/
     ├── podcasts.md
-    └── newsletters.md
+    └── newsletters.md'''
 
 Folder Description
 
